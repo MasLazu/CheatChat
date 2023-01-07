@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "author-1": "pens2022@pens.ac.id",
+      "author-2": "dormek@gmail.com",
+      "chats": [
+        {
+          "author": "dormek@gmail.com",
+          "message": "halo bang apa kabar"
+        },
+        {
+          "author": "pens2022@pens.ac.id",
+          "message": "baik bang, Supri jok supra gimana kabarnya bang"
+        }
+      ]
+    }
+  ]
+}
